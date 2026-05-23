@@ -1,0 +1,62 @@
+aid: brilliant
+url: https://raw.githubusercontent.com/api-evangelist/brilliant/refs/heads/main/apis.yml
+name: Brilliant
+kind: company
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Education
+  - STEM
+  - Math
+  - Computer Science
+  - Data Science
+  - Interactive Learning
+  - Consumer
+  - K-12
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.19'
+description: >-
+  Brilliant is a consumer-first interactive STEM learning platform that delivers bite-sized,
+  problem-solving-driven courses in math, computer science, data science, and science to over
+  10 million learners on web, iOS, and Android. Brilliant for Educators offers free Premium
+  access to K-12 teachers and students, with Google Classroom roster sync, COPPA/FERPA/GDPR
+  compliance, and a teacher portal for class management. Brilliant does not publish a public
+  developer API or partner SDK — the product is consumer- and classroom-facing, and integration
+  with school ecosystems is limited to Google Classroom roster sync.
+apis: []
+common:
+  - type: Website
+    url: https://brilliant.org
+  - type: Courses
+    url: https://brilliant.org/courses
+  - type: Educators
+    url: https://educator.brilliant.org
+  - type: EducatorApply
+    url: https://educator.brilliant.org/apply
+  - type: HelpCenter
+    url: https://brilliant.org/help/
+  - type: Pricing
+    url: https://brilliant.org/premium/
+  - type: Blog
+    url: https://brilliant.org/blog/
+  - type: Careers
+    url: https://brilliant.org/careers/
+  - type: PrivacyPolicy
+    url: https://brilliant.org/privacy/
+  - type: TermsOfService
+    url: https://brilliant.org/tos/
+  - type: iOSApp
+    url: https://apps.apple.com/us/app/brilliant-learn-by-doing/id913335252
+  - type: AndroidApp
+    url: https://play.google.com/store/apps/details?id=org.brilliant.android
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/brilliant-org
+  - type: Twitter
+    url: https://x.com/brilliantorg
+  - type: YouTube
+    url: https://www.youtube.com/@brilliantorg
+  - type: Support
+    url: mailto:help@brilliant.org
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
