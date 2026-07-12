@@ -25,6 +25,8 @@ description: >-
   with school ecosystems is limited to Google Classroom roster sync.
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/brilliant-domain-security.yml
   - type: Website
     url: https://brilliant.org
   - type: Courses
