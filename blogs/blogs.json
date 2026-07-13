@@ -2,11 +2,13 @@
   "repo": "brilliant",
   "feeds": [
     {
-      "source": "https://brilliant.org/blog/",
+      "source": "https://brilliant.org/premium/",
+      "feed_url": "https://brilliant.org/premium/",
+      "title": "",
       "saved": 0,
-      "error": "404 Not Found on blog listing (and /blog)"
+      "method": "none"
     }
   ],
-  "fetched": "2026-06-27T12:29:18Z",
+  "fetched": "2026-07-11T11:50:51Z",
   "post_count": 0
 }
